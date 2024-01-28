@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun Jan 28 13:46:28 2024
+# Process ID: 10888
+# Current directory: C:/Users/Alicia/Documents/sistemas_digitais/projeto_ULA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7480 C:\Users\Alicia\Documents\sistemas_digitais\projeto_ULA\projeto_ULA.xpr
+# Log file: C:/Users/Alicia/Documents/sistemas_digitais/projeto_ULA/vivado.log
+# Journal file: C:/Users/Alicia/Documents/sistemas_digitais/projeto_ULA\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Alicia/Documents/sistemas_digitais/projeto_ULA/projeto_ULA.xpr
+update_compile_order -fileset sources_1

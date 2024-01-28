@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Apr 20 13:10:50 2023
+# Process ID: 5024
+# Current directory: D:/project_03/pratica_1/pratica_1/pratica_1.runs/impl_1
+# Command line: vivado.exe -log pratica01.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source pratica01.tcl -notrace
+# Log file: D:/project_03/pratica_1/pratica_1/pratica_1.runs/impl_1/pratica01.vdi
+# Journal file: D:/project_03/pratica_1/pratica_1/pratica_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source pratica01.tcl -notrace

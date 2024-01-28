@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alicia/Documents/sistemas_digitais/comparador_4bits/comparador.srcs/sources_1/new/comparador.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'comparador'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alicia/Documents/sistemas_digitais/comparador_4bits/comparador.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testbench'

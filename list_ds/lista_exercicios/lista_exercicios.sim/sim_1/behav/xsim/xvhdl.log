@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alicia/Documents/sistemas_digitais/lista_exercicios/lista_exercicios.srcs/sources_1/new/not_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'not_test'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alicia/Documents/sistemas_digitais/lista_exercicios/lista_exercicios.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testbench'

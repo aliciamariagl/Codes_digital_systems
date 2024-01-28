@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../processador_16bits.srcs/sources_1/new/Banco_Registradores.vhd" \
+"../../../../processador_16bits.srcs/sources_1/new/Mux_4x1.vhd" \
+"../../../../processador_16bits.srcs/sources_1/new/Registrador_SP.vhd" \
+"../../../../processador_16bits.srcs/sources_1/new/ULA.vhd" \
+"../../../../processador_16bits.srcs/sources_1/new/Datapath.vhd" \
+"../../../../processador_16bits.srcs/sim_1/new/Testbench_Datapath.vhd" \
+
+# Do not sort compile order
+nosort

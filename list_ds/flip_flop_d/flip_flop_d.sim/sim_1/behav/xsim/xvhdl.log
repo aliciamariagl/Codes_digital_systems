@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alicia/Documents/sistemas_digitais/flip_flop_d/flip_flop_d.srcs/sources_1/new/flipflop.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'flipflop'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Alicia/Documents/sistemas_digitais/flip_flop_d/flip_flop_d.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testbench'
